@@ -1,0 +1,52 @@
+
+@font-face {font-family: "iconfont";
+  src: url('../font/iconfont.eot?t=1485058373220'); /* IE9*/
+  src: url('../font/iconfont.eot?t=1485058373220#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../font/iconfont.woff?t=1485058373220') format('woff'), /* chrome, firefox */
+  url('../font/iconfont.ttf?t=1485058373220') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('../font/iconfont.svg?t=1485058373220#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.eat_icon-shangjia:before { content: "\e600"; }
+
+.eat_icon-share:before { content: "\e6ea"; }
+
+.eat_icon-zan:before { content: "\e63f"; }
+
+.eat_icon-user:before { content: "\e6ce"; }
+
+.eat_icon-home:before { content: "\e6b0"; }
+
+.eat_icon-comment:before { content: "\e730"; }
+
+.eat_icon-ljt:before { content: "\e609"; }
+
+.eat_icon-camera:before { content: "\e60b"; }
+
+.eat_icon-left:before { content: "\e6aa"; }
+
+.eat_icon-youhui:before { content: "\e6fc"; }
+
+.eat_icon-baichi:before { content: "\e60c"; }
+
+.eat_icon-decide:before { content: "\e604"; }
+
+.eat_icon-xiangxia:before { content: "\e628"; }
+
+.eat_icon-star:before { content: "\e635"; }
+
+.eat_icon-banstar:before { content: "\e656"; }
+
+.eat_icon-xiaoxi:before { content: "\e634"; }
+
+.eat_icon-taxi:before { content: "\e61c"; }
+
+.eat_icon-free-eat:before { content: "\e7e2"; }
+

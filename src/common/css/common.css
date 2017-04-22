@@ -1,0 +1,29 @@
+body, div, ul, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td { padding:0;margin:0; }
+ul,li{ list-style: none;list-style-type:none;}
+::-webkit-input-placeholder { color:#bbb; }
+::-moz-placeholder { color:#bbb; } /* firefox 19+ */
+:-ms-input-placeholder { color:#bbb; } /* ie */
+input:-moz-placeholder { color:#bbb; }
+input[type="number"]{-moz-appearance:textfield;}
+html{
+	height: 100% !important;
+}
+body{
+	height: 100% !important;
+	font-size: 16px;
+	overflow-x: hidden !important;
+}
+@media only screen and (min-width: 320px) and (max-width: 360px) {
+	body{
+		font-size: 14px;
+	}
+
+}
+@media only screen and (min-width: 680px) and (max-width: 2000px) {
+	body{
+		position: absolute;
+		left: calc(50% - 340px);
+		max-width: 680px;
+
+	}
+}
